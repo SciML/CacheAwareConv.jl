@@ -6,5 +6,5 @@ Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
 CacheAwareConv = {path = "/home/runner/work/CacheAwareConv.jl/CacheAwareConv.jl"}
 
 [compat]
-CacheAwareConv = "0.1"
+CacheAwareConv = "1"
 Documenter = "1"
