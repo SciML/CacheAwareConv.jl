@@ -44,7 +44,7 @@ version = "0.2.7"
 
 [[deps.CacheAwareConv]]
 deps = ["CPUSummary", "HostCPUFeatures", "PrecompileTools", "SIMD", "SciMLPublic", "Static"]
-path = "/home/runner/_work/CacheAwareConv.jl/CacheAwareConv.jl"
+path = "/home/runner/work/CacheAwareConv.jl/CacheAwareConv.jl"
 uuid = "ae0c0968-3b55-4cf5-aa46-61dd257e9e80"
 version = "1.1.0"
 
